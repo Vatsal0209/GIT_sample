@@ -1,3 +1,0 @@
-This is version1 of the project.
-changed
-I want this to go to commit 2.
